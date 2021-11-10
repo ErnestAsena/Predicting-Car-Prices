@@ -1,7 +1,7 @@
 # Predicting-Car-Prices
 In this project I will be writing a model to predict the price of used cars using features as Engine Volume, Brand, Year of Manufacture, Engine Type and Body Type
 
-I go through the dataset and clean it, check  OLS assumptions, relax some of them, perform feature scaling and finally fit a regression model to the data.
+I go through the dataset and clean it, check  OLS assumptions, relax some of them, create dummy variables, perform feature scaling and finally fit a regression model to the data.
 Finally, I evaluate it's performance.
 
 
