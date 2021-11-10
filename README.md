@@ -6,3 +6,5 @@ Finally, I evaluate it's performance.
 
 
 <img src='https://github.com/ErnestAsena/Predicting-Car-Prices/blob/main/Images/Screenshot%202021-11-10%20at%2012.45.28.png'>
+
+<img src='https://github.com/ErnestAsena/Predicting-Car-Prices/blob/main/Images/Screenshot%202021-11-10%20at%2012.46.15.png'>
